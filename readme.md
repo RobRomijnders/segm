@@ -37,3 +37,9 @@ The code consist of three scripts
 Note that you have to download the data yourself:
   * [CIFAR](https://www.cs.toronto.edu/~kriz/cifar.html)
   * [MNIST](http://yann.lecun.com/exdb/mnist/)
+
+# Images
+
+Samples of the input data
+![input data](https://github.com/RobRomijnders/segm/blob/master/im/input_data.png?raw=true)
+![segmentation results](https://github.com/RobRomijnders/segm/blob/master/im/segm_result.png?raw=true)
